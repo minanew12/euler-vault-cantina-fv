@@ -18,7 +18,6 @@ The Formal Verification (FV) component of the contest is about using the Certora
 - 100,000 USDC of this contest will be allocated for FV.
 - Conventional bug submission, issue judgment, and all reward distribution will be managed by Cantina.
 - FV component is unique as participants are incentivized to implement and verify high coverage properties using the Certora Prover.
-- The judging of FV is conducted by Certora, with different submissions, incentives, and judging processes compared to the standard contest. These processes are explained in this document.
 
 ## Getting Started
 - **Get access to the Prover**:
